@@ -1,0 +1,35 @@
+
+li{
+	list-style: none;
+	display:inline-block;
+	justify-content:space-between;
+
+
+}
+
+.headers{
+	background-color: skyblue;
+	color: white; 
+	font-size:20px;
+	margin-right: 20px;
+	text-align: right;
+	font-family: "Calibri";
+}
+
+.dropdowns{
+	display:inline-block;
+	margin: 50px;
+	font-family: "Calibri";
+
+}
+
+.boxmodel {
+	clear:both;
+	border: 5px solid blue;
+	display:inline-block;
+	padding:30px 15px 30px 15px;
+	margin:30px 25px 30px 25px;
+	width:200px;
+	height:180px;
+	font-family: "Calibri";
+}
